@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <title>Movie Organiser</title>
+
+  <script id="file-display" type="text/x-handlebars-template">
+    <div class="entry">
+        <br />
+        {{#each files}}
+        <br />
+        <h2>name:{{name}}</h2>
+        <p>path:{{path}}</p>
+        {{/each}}
+    </div>
+  </script>
+  </head>
+  <body>
+    Believe Me!! You will see sth here.
+    <div id="dis">
+
+    </div>
+
+    <script src="../bower_components/handlebars/handlebars.min.js"></script>
+    <script src="./javascript/app.js"></script>
+  </body>
+</html>

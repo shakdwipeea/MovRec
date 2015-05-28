@@ -1,0 +1,22 @@
+{
+  "name": "MovProj",
+  "version": "1.0.0",
+  "description": "Movie organizer and recommender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakdwipeea/MovRec"
+  },
+  "author": "Akash Shakdwipeea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakdwipeea/MovRec/issues"
+  },
+  "homepage": "https://github.com/shakdwipeea/MovRec",
+  "dependencies": {
+    "paralleljs": "^0.2.1"
+  }
+}
