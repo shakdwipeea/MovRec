@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/shakdwipeea/MovRec",
   "dependencies": {
-    "paralleljs": "^0.2.1"
+    "nedb": "^1.1.2",
+    "open": "0.0.5",
+    "paralleljs": "^0.2.1",
+    "parse-torrent-name": "^0.5.4",
+    "pouchdb": "^3.5.0",
+    "qs": "^3.1.0",
+    "request": "^2.56.0"
   }
 }

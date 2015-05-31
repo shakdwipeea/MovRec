@@ -1,20 +1,33 @@
 <html>
   <head>
     <title>Movie Organiser</title>
+    <script type="text/javascript" src="pace.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/app.css" />
 
   <script id="file-display" type="text/x-handlebars-template">
     <div class="entry">
         <br />
         {{#each files}}
-        <br />
-        <h2>name:{{name}}</h2>
-        <p>path:{{path}}</p>
+        <div onclick="play({{json this}})">
+           <br />
+          <h2>name:{{name}}</h2>
+          <h3>Title: {{title}}</h3>
+          <h3>Season: {{season}}</h3>
+          <h3>Episode: {{episode}}</h3>
+          <p>path:{{path}}</p><br/>
+          <p>Rating: {{rating}}</p>
+          <hr />
+        </div>
         {{/each}}
     </div>
   </script>
   </head>
   <body>
+    <input type="text" id="movie" name="query" onkeydown="query(event)" />
     Believe Me!! You will see sth here.
+   <!--  <div class="pace pace-progress"> 
+      
+    </div> -->
     <div id="dis">
 
     </div>
