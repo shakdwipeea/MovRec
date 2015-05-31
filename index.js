@@ -8,6 +8,13 @@ var BrowserWindow = require('browser-window');
 		autoload: true
 	});*/
 
+var low = require('lowdb');
+var db = low('movie.json',{
+	autosave: true,
+	async: false
+})
+
+
 require('crash-reporter').start();
 
 var mainWindow = null;
