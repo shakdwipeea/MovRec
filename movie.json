@@ -1,0 +1,669 @@
+{
+  "movies": [
+    {
+      "name": "[DeadFish] Kuroko no Basket 3 - 20 [720p][AAC].mp4",
+      "path": "//home/akash/Downloads/[DeadFish] Kuroko no Basket 3 - 20 [720p][AAC].mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Kuroko no Basket 3"
+    },
+    {
+      "name": "Taylor Swift - Blank Space.mp4",
+      "path": "//home/akash/Downloads/Taylor Swift - Blank Space.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Taylor Swift"
+    },
+    {
+      "name": "TVF's Permanent Roommates - S01E01 - 'The Proposal'.mp4",
+      "path": "//home/akash/Downloads/TVF's Permanent Roommates - S01E01 - 'The Proposal'.mp4",
+      "season": 1,
+      "episode": 1,
+      "title": "TVF's Permanent Roommates"
+    },
+    {
+      "name": "Game.of.Thrones.S05E06.HDTV.x264-ASAP.mp4",
+      "path": "//home/akash/Videos/Game.of.Thrones.S05E06.HDTV.x264-ASAP.mp4",
+      "season": 5,
+      "episode": 6,
+      "title": "Game of Thrones"
+    },
+    {
+      "name": "knb s3e11.mp4",
+      "path": "//home/akash/Videos/knb s3e11.mp4",
+      "season": 3,
+      "episode": 11,
+      "title": "knb"
+    },
+    {
+      "name": "Knowlarity Smart IVR Studio Introduction-HD.mp4",
+      "path": "//home/akash/Videos/Knowlarity Smart IVR Studio Introduction-HD.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Knowlarity Smart IVR Studio Introduction"
+    },
+    {
+      "name": "Game.of.Thrones.S05E07.HDTV.x264-ASAP.mp4",
+      "path": "//home/akash/Downloads/Game.of.Thrones.S05E07.HDTV.x264-ASAP[ettv]/Game.of.Thrones.S05E07.HDTV.x264-ASAP.mp4",
+      "season": 5,
+      "episode": 7,
+      "title": "Game of Thrones"
+    },
+    {
+      "name": "Game.of.Thrones.S05E05.HDTV.x264-ASAP.mp4",
+      "path": "//home/akash/Videos/Game.of.Thrones.S05E05.HDTV.x264-ASAP[ettv]/Game.of.Thrones.S05E05.HDTV.x264-ASAP.mp4",
+      "season": 5,
+      "episode": 5,
+      "title": "Game of Thrones"
+    },
+    {
+      "name": "RARBG.com.mp4",
+      "path": "//home/akash/Videos/John.Wick.2014.1080p.WEB-DL.DD5.1.H264-RARBG/RARBG.com.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "RARBG com mp4"
+    },
+    {
+      "name": "#10 More advanced Jade - Learn All The Nodes-10.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#10 More advanced Jade - Learn All The Nodes-10.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#10 More advanced Jade - Learn All The Nodes"
+    },
+    {
+      "name": "#11 MongoDB + Node = Mongoose (an intro) - Learn All The Nodes-11.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#11 MongoDB + Node = Mongoose (an intro) - Learn All The Nodes-11.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#11 MongoDB + Node = Mongoose"
+    },
+    {
+      "name": "#12 Unique records in Mongoose - Learn All The Nodes-12.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#12 Unique records in Mongoose - Learn All The Nodes-12.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#12 Unique records in Mongoose - Learn All The Nodes"
+    },
+    {
+      "name": "#13 Custom validations in Mongoose - Learn All The Nodes-13.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#13 Custom validations in Mongoose - Learn All The Nodes-13.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#13 Custom validations in Mongoose - Learn All The Nodes"
+    },
+    {
+      "name": "#14 Creating user accounts - Learn All The Nodes-14.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#14 Creating user accounts - Learn All The Nodes-14.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#14 Creating user accounts - Learn All The Nodes"
+    },
+    {
+      "name": "#15 Testing in Node.js - Learn All The Nodes-15.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#15 Testing in Node.js - Learn All The Nodes-15.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#15 Testing in Node.js - Learn All The Nodes"
+    },
+    {
+      "name": "#16 Testing route handlers - Learn All The Nodes-16.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#16 Testing route handlers - Learn All The Nodes-16.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#16 Testing route handlers - Learn All The Nodes"
+    },
+    {
+      "name": "#17 Testing route handlers revisited - Learn All The Nodes-17.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#17 Testing route handlers revisited - Learn All The Nodes-17.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#17 Testing route handlers revisited - Learn All The Nodes"
+    },
+    {
+      "name": "#18 Less is moar - Learn All The Nodes-18.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#18 Less is moar - Learn All The Nodes-18.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#18 Less is moar - Learn All The Nodes"
+    },
+    {
+      "name": "#20 Password Authentication in Node with Passport (the Overview) - Learn All The Nodes-20.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#20 Password Authentication in Node with Passport (the Overview) - Learn All The Nodes-20.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#20 Password Authentication in Node with Passport"
+    },
+    {
+      "name": "#21 Password Authentication in Node with Passport - Learn All The Nodes-21.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#21 Password Authentication in Node with Passport - Learn All The Nodes-21.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#21 Password Authentication in Node with Passport - Learn All The Nodes"
+    },
+    {
+      "name": "#22 connect-flash - Learn All The Nodes-22.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#22 connect-flash - Learn All The Nodes-22.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#22 connect-flash - Learn All The Nodes"
+    },
+    {
+      "name": "#23 Authorization with Passport (Part 1 - Ensuring they're logged in) - Learn All The Nodes-23.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#23 Authorization with Passport (Part 1 - Ensuring they're logged in) - Learn All The Nodes-23.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#23 Authorization with Passport"
+    },
+    {
+      "name": "#24 Style tricks for the design impaired - Learn All The Nodes-24.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#24 Style tricks for the design impaired - Learn All The Nodes-24.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#24 Style tricks for the design impaired - Learn All The Nodes"
+    },
+    {
+      "name": "#25 Authorization (Part 2 - Ensuring they have permission) - Learn All The Nodes-25.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/learnNode/#25 Authorization (Part 2 - Ensuring they have permission) - Learn All The Nodes-25.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#25 Authorization"
+    },
+    {
+      "name": "The Top Five Songs Sung by S.D.Burman.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/The Top Five Songs Sung by S.D.Burman.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "The Top Five Songs Sung by S.D.Burman.mp4"
+    },
+    {
+      "name": "Banking Software Project in Java with MySql, JDBC, Swing.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/pendrive/Banking Software Project in Java with MySql, JDBC, Swing.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Banking Software Project in Java with MySql, JDBC, Swing.mp4"
+    },
+    {
+      "name": "[DeadFish] Kuroko no Basket 3 - 20 [720p][AAC].mp4",
+      "path": "//home/akash/.local/share/Trash/files/[DeadFish] Kuroko no Basket 3 - 20 [720p][AAC].mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Kuroko no Basket 3"
+    },
+    {
+      "name": "AngularJS Fundamentals In 60-ish Minutes.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/Edu/AngularJS Fundamentals In 60-ish Minutes.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "AngularJS Fundamentals In 60"
+    },
+    {
+      "name": "Jarallax tutorial 1_ Jarallax basics.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/Edu/Jarallax tutorial 1_ Jarallax basics.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Jarallax tutorial 1  Jarallax basics.mp4"
+    },
+    {
+      "name": "Jarallax tutorial 2_ More animations.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/Edu/Jarallax tutorial 2_ More animations.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Jarallax tutorial 2  More animations.mp4"
+    },
+    {
+      "name": "VID_20140517_163840091.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140517_163840091.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "VID_20140517_163923397.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140517_163923397.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "VID_20140517_183717643.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140517_183717643.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "VID_20140517_183818918.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140517_183818918.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "VID_20140517_184047220.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140517_184047220.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "VID_20140517_184121301.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140517_184121301.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "VID_20140527_182624298.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140527_182624298.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "VID_20140527_182643086.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/sheophar/VID_20140527_182643086.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "VID"
+    },
+    {
+      "name": "#4 Android Customize Toolbar - Android Material Design Tutorial [HD 1080p]-4XfDDfa3rv8.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/UbuntuCompleteBackup/#4 Android Customize Toolbar - Android Material Design Tutorial [HD 1080p]-4XfDDfa3rv8.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#4 Android Customize Toolbar - Android Material Design Tutorial [HD"
+    },
+    {
+      "name": "#5 Adding Actions to ToolBar_ActionBar_AppBar  - Android Tutorials [HD 1080p]-EAZv1fP-5TM.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Akash/UbuntuCompleteBackup/#5 Adding Actions to ToolBar_ActionBar_AppBar  - Android Tutorials [HD 1080p]-EAZv1fP-5TM.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "#5 Adding Actions to ToolBar ActionBar AppBar  - Android Tutorials [HD"
+    },
+    {
+      "name": "Breaking.Bad.S05E09.HDTV.x264-ASAP.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Breaking Bad/Breaking Bad Season 5/Breaking.Bad.S05E09.HDTV.x264-ASAP.mp4",
+      "season": 5,
+      "episode": 9,
+      "title": "Breaking Bad"
+    },
+    {
+      "name": "Breaking.Bad.S05E10.HDTV.x264-ASAP.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Breaking Bad/Breaking Bad Season 5/Breaking.Bad.S05E10.HDTV.x264-ASAP.mp4",
+      "season": 5,
+      "episode": 10,
+      "title": "Breaking Bad"
+    },
+    {
+      "name": "C Pointer to Structure and Arrow operator.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/C Pointer to Structure and Arrow operator.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "C Pointer to Structure and Arrow operator.mp4"
+    },
+    {
+      "name": "C programming Pointers fully explained.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/C programming Pointers fully explained.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "C programming Pointers fully explained.mp4"
+    },
+    {
+      "name": "C programming Structures in C.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/C programming Structures in C.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "C programming Structures in C.mp4"
+    },
+    {
+      "name": "Data Structure tutorial 1 _ What is data structure.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data Structure tutorial 1 _ What is data structure.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data Structure tutorial 1   What is data structure.mp4"
+    },
+    {
+      "name": "Data Structure tutorial 2.2 _ Stack using array Push Function.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data Structure tutorial 2.2 _ Stack using array Push Function.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data Structure tutorial 2.2   Stack using array Push Function.mp4"
+    },
+    {
+      "name": "Data structure tutorial 2.3_ Stack using array Pop function.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data structure tutorial 2.3_ Stack using array Pop function.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data structure tutorial 2.3  Stack using array Pop function.mp4"
+    },
+    {
+      "name": "Data Structure tutorial 2.4_ Stack using array Display function.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data Structure tutorial 2.4_ Stack using array Display function.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data Structure tutorial 2.4  Stack using array Display function.mp4"
+    },
+    {
+      "name": "Data Structure tutorial 2 _ Stack explained.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data Structure tutorial 2 _ Stack explained.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data Structure tutorial 2   Stack explained.mp4"
+    },
+    {
+      "name": "Data structure tutorial 3.1_ Queue using array C program.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data structure tutorial 3.1_ Queue using array C program.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data structure tutorial 3.1  Queue using array C program.mp4"
+    },
+    {
+      "name": "Data structure tutorial 3_ Queue explained.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data structure tutorial 3_ Queue explained.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data structure tutorial 3  Queue explained.mp4"
+    },
+    {
+      "name": "Data structure tutorial 4_ Circular Queue explained and c program.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/Data structure tutorial 4_ Circular Queue explained and c program.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Data structure tutorial 4  Circular Queue explained and c program.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.1_ Linked List starting up and main function.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.1_ Linked List starting up and main function.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.1  Linked List starting up and main function.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.2_ Linked List Display function and traversal.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.2_ Linked List Display function and traversal.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.2  Linked List Display function and traversal.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.3_ Linked List Add nodes at the beginning.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.3_ Linked List Add nodes at the beginning.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.3  Linked List Add nodes at the beginning.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.4_ Linked List Add nodes at the End.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.4_ Linked List Add nodes at the End.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.4  Linked List Add nodes at the End.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.5_ Linked List Delete nodes from the list.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.5_ Linked List Delete nodes from the list.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.5  Linked List Delete nodes from the list.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.6_ Linked list Search function.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.6_ Linked list Search function.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.6  Linked list Search function.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.7_ Linked list Counting nodes in a link list.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.7_ Linked list Counting nodes in a link list.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.7  Linked list Counting nodes in a link list.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.8_ Linked list Add nodes in Between nodes.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.8_ Linked list Add nodes in Between nodes.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.8  Linked list Add nodes in Between nodes.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5.9_ Linked list Reverse a Linked list.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5.9_ Linked list Reverse a Linked list.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5.9  Linked list Reverse a Linked list.mp4"
+    },
+    {
+      "name": "D.S Tutorial 5_ Linked List Explanation.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Basic Data Structures/D.S Tutorial 5_ Linked List Explanation.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "D.S Tutorial 5  Linked List Explanation.mp4"
+    },
+    {
+      "name": "Intro - Become a Web Developer From Scratch.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/Complete Web Development/Intro - Become a Web Developer From Scratch.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Intro"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-10 Red-black Trees, Rotations, Insertions, Deletions.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-10 Red-black Trees, Rotations, Insertions, Deletions.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms-10 Red"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-11 Augmenting Data Structures, Dynamic Order Statistics, Interval Trees.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-11 Augmenting Data Structures, Dynamic Order Statistics, Interval Trees.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-12 Skip Lists.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-12 Skip Lists.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-13 Amortized Algorithms, Table Doubling, Potential Method.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-13 Amortized Algorithms, Table Doubling, Potential Method.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-14 Competitive Analysis Self-organizing Lists.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-14 Competitive Analysis Self-organizing Lists.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms-14 Competitive Analysis Self"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-15 Dynamic Programming, Longest Common Subsequence.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-15 Dynamic Programming, Longest Common Subsequence.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-16 Greedy Algorithms, Minimum Spanning Trees.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-16 Greedy Algorithms, Minimum Spanning Trees.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-17 Shortest Paths.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-17 Shortest Paths.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-18 Shortest Paths II Bellman-Ford, Linear Programming, Difference Constraints.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-18 Shortest Paths II Bellman-Ford, Linear Programming, Difference Constraints.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms-18 Shortest Paths II Bellman"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-19 Shortest Paths III All-pairs Shortest Paths, Matrix Multiplication, Floyd-Warshall, Johnson.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-19 Shortest Paths III All-pairs Shortest Paths, Matrix Multiplication, Floyd-Warshall, Johnson.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms-19 Shortest Paths III All-pairs Shortest Paths, Matrix Multiplication, Floyd"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-1 Administrative Introduction Analysis Of Algorithms, Insertion Sort, Mergesort.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-1 Administrative Introduction Analysis Of Algorithms, Insertion Sort, Mergesort.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-20 Advanced Topics.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-20 Advanced Topics.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-21 Advanced Topics (cont.).mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-21 Advanced Topics (cont.).mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-22 Advanced Topics (cont.).mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-22 Advanced Topics (cont.).mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-23 Advanced Topics (cont.)Discussion of Follow-on Classes.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-23 Advanced Topics (cont.)Discussion of Follow-on Classes.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms-23 Advanced Topics"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-2 Asymptotic NotationRecurrencesSubstitution, Master Method.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-2 Asymptotic NotationRecurrencesSubstitution, Master Method.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-3 Divide-and-Conquer Strassen, Fibonacci, Polynomial Multiplication.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-3 Divide-and-Conquer Strassen, Fibonacci, Polynomial Multiplication.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms-3 Divide-and"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-4 Quicksort, Randomized Algorithms.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-4 Quicksort, Randomized Algorithms.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-5 Linear-time Sorting Lower Bounds, Counting Sort, Radix Sort.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-5 Linear-time Sorting Lower Bounds, Counting Sort, Radix Sort.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms-5 Linear"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-6 Order Statistics, Median.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-6 Order Statistics, Median.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-7 Hashing, Hash Functions.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-7 Hashing, Hash Functions.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-8 Universal Hashing, Perfect Hashing.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-8 Universal Hashing, Perfect Hashing.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "MIT Lectures For Algorithms-9 Relation of BSTs to QuicksortAnalysis of Random BST.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/CS Tutorials/MIT Lectures For Algorithms/MIT Lectures For Algorithms-9 Relation of BSTs to QuicksortAnalysis of Random BST.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "MIT Lectures For Algorithms"
+    },
+    {
+      "name": "a.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/ravi songs/a.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "a mp4"
+    },
+    {
+      "name": "KAHIN KARTI HOGI WO MERA INTEZAAR - Mukesh  Lata - PHIR KAB MILOGI (1974) {COMPLETE}.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/ravi songs/KAHIN KARTI HOGI WO MERA INTEZAAR - Mukesh  Lata - PHIR KAB MILOGI (1974) {COMPLETE}.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "KAHIN KARTI HOGI WO MERA INTEZAAR - Mukesh  Lata"
+    },
+    {
+      "name": "Kisi Raah Mein Kisi Mod Par  from Mere Humsafar 1970--RAHUL KUMAR.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/ravi songs/Kisi Raah Mein Kisi Mod Par  from Mere Humsafar 1970--RAHUL KUMAR.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Kisi Raah Mein Kisi Mod Par  from Mere Humsafar"
+    },
+    {
+      "name": "Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Song_HD.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/ravi songs/Lag Jaa Gale - Sadhana, Lata Mangeshkar, Woh Kaun Thi Song_HD.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Lag Jaa Gale"
+    },
+    {
+      "name": "Musafir Hon Yaaron - [Purani Yaadein].mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/ravi songs/Musafir Hon Yaaron - [Purani Yaadein].mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Musafir Hon Yaaron"
+    },
+    {
+      "name": "Naam Goom Jayega song - Kinara.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/ravi songs/Naam Goom Jayega song - Kinara.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Naam Goom Jayega song"
+    },
+    {
+      "name": "Woh Shaam Kuch Ajeeb Thi 1969 film Khamoshi - Rajesh Khanna, Waheeda Rehman, Kishore Kumar-1.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/ravi songs/Woh Shaam Kuch Ajeeb Thi 1969 film Khamoshi - Rajesh Khanna, Waheeda Rehman, Kishore Kumar-1.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Woh Shaam Kuch Ajeeb Thi"
+    },
+    {
+      "name": "Fantasy Feat Yo Yo Honey Singh Alfaaz - Official Full Video Song - Jatt Airways_HD.mp4",
+      "path": "//media/akash/343A718D3A714CBC/Raghav___back_up/Music/Mobile Hits/Fantasy Feat Yo Yo Honey Singh Alfaaz - Official Full Video Song - Jatt Airways_HD.mp4",
+      "season": 0,
+      "episode": 0,
+      "title": "Fantasy Feat Yo Yo Honey Singh Alfaaz - Official Full Video Song"
+    }
+  ]
+}

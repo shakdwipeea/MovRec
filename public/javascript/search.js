@@ -2,16 +2,25 @@ var fs = require('fs');
 var pathLib = require('path');
 var DataStore = require('nedb');
 
+/* Low db */
+
+var low = require('lowdb');
+var db = low('movie.json',{
+	autosave: true,
+	async: false
+})
+
+
 var ptn = require('parse-torrent-name');
 var request = require('request')
 var qs = require('qs');
 
 var comm = require('./javascript/Comm')
-
+/*
 var db = new DataStore({
 	filename: __dirname+ '/../public/movie.db',
 	autoload: true
-});
+});*/
 
 var data = [];
 //3721
@@ -90,22 +99,17 @@ function saveToDb(pathElement) {
 }
 
 function writeToDb (curVideo) {
-	db.find({
-			path: curVideo.path
-		}, function  (err, docs) {
-			console.log("We go " + err + docs)
-			if(err) console.log("Error" + err)
-			if(docs.length == 0) {
-				db.insert(curVideo, function(err, newDoc) {
-					if(err) console.log("Error" + err)
-					console.log("Written to db", newDoc)
-				});
+	var docs = db('movies').find({path: curVideo.path});
+
+	console.log("We go " + docs)
+			if(!docs) {
+				db('movies').push(curVideo);
+				db.save();
+				console.log("Addedds ok")
 			}
 			else {
 				console.log("Skippin")
 			}
-			fs.appendFile(__dirname + '/../public/db.json', curVideo.path);
- 		})
 }
 
 function getMovieDetails (curVideo, callback) {

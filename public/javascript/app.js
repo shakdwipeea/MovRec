@@ -1,25 +1,34 @@
 var fs = require('fs');
-var DataStore = require('nedb');
+/*var DataStore = require('nedb');
 var db = new DataStore({
   filename: __dirname + '/movie.db',
   autoload: true
 });
+*/
+var _ = require('lodash')
+
 var open = require("open");
 
+var lowdb = require('lowdb');
+var db = lowdb('movie.json');
+
+Handlebars.registerHelper('json', function(context) {
+    return JSON.stringify(context);
+});
 updateUi();
 
 function updateUi() {
   console.log('Update ui now')
+  db = lowdb('movie.json')
 
   var fileDatas = dbGet(function  (docs) {
     addData(docs);
-    
   });
 
 }
 
 function addData (docs) {
-  console.log("Docs is " +  Object.keys(docs))
+  //console.log("Docs is " +  Object.keys(docs))
 
     console.log("Data" + docs.length)
 
@@ -45,19 +54,22 @@ function dbGet (callback) {
 		encoding:'utf-8'
 	});*/
   
-  db.find({}, function (err, docs) {
-      if (err) console.log("Error" + err)
-      callback(docs);
-  })
+  var docs = db("movies").take(db("movies").size())
+  console.log('Dbdb' +  docs.length)
+  callback(docs)
   
 }
 
-fs.watch(__dirname + '/movie.db', function(event, fileName) {
+/*fs.watch('movie.json', function(event, fileName) {
 	updateUi();
 	console.log("Event:",event)
-})
+})*/
 
-/*
+setInterval(function  () {
+  updateUi();
+},5000)
+
+/*  
 ractive.observe('context', function  (newValue) {
 	ractive.data = context;
 })*/
@@ -68,22 +80,25 @@ function  query(event) {
   //if (event.keyCode != 13) {return};
   console.log("Query called",event)
   var title = document.getElementById("movie").value
-  console.log("Title we're searching",title)
-  db.find({
-    name: {
-      $regex: new RegExp(title, 'i')
-    }
-  }, function  (err, docs) {
-    console.log(err, docs)
-    addData(docs);
-  })
+  console.log("Title we're searching" + title)
+
+  var docs = db("movies").take(db("movies").size())
+
+  var newDocs= _.filter(docs, function  (doc) {
+      var x = new RegExp(title, 'i')
+      if(doc.name.match(x)) {
+        return true
+      }
+   })
+
+  console.log(typeof newDocs)
+
+  addData(newDocs)
+
+  //call addData with docs
 }
 
 function play (video) {
   console.log("Open called")
   open(video.path);
 }
-
-Handlebars.registerHelper('json', function(context) {
-    return JSON.stringify(context);
-});

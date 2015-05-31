@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/shakdwipeea/MovRec",
   "dependencies": {
+    "lodash": "^3.9.3",
+    "lowdb": "^0.7.3",
     "nedb": "^1.1.2",
     "open": "0.0.5",
     "paralleljs": "^0.2.1",
