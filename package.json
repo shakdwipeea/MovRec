@@ -22,6 +22,7 @@
   "homepage": "https://github.com/shakdwipeea/MovRec",
   "dependencies": {
     "async": "^1.5.2",
+    "colors": "^1.1.2",
     "commander": "^2.9.0",
     "lodash": "^3.9.3",
     "lowdb": "^0.7.3",
