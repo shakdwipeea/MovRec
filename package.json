@@ -4,7 +4,11 @@
   "description": "Movie organizer and recommender",
   "main": "index.js",
   "scripts": {
+    "run-cli": "node src/cli/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kyaji": "src/cli/index.js"
   },
   "repository": {
     "type": "git",
@@ -17,9 +21,12 @@
   },
   "homepage": "https://github.com/shakdwipeea/MovRec",
   "dependencies": {
+    "async": "^1.5.2",
+    "commander": "^2.9.0",
     "lodash": "^3.9.3",
     "lowdb": "^0.7.3",
     "nedb": "^1.1.2",
+    "omdb": "^0.5.0",
     "open": "0.0.5",
     "paralleljs": "^0.2.1",
     "parse-torrent-name": "^0.5.4",
