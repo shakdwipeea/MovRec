@@ -91,10 +91,10 @@ function saveToDb(pathElement) {
 
 		writeToDb(curVideo);
 
-	
+
 	})
 
-	
+
 	//updateUi();
 }
 
@@ -118,7 +118,7 @@ function getMovieDetails (curVideo, callback) {
 	var URL = "http://www.omdbapi.com/?"
 
 	if(details.title) {
-		//Title exists good to go 
+		//Title exists good to go
 		var det = {
 			t: details.title,
 			plot: 'short',
@@ -128,9 +128,9 @@ function getMovieDetails (curVideo, callback) {
 		curVideo.season = details.season | "NA"
 		curVideo.episode = details.episode | "NA"
 		curVideo.title = details.title
-		callback(curVideo)
+		//callback(curVideo)
 
-		/*var queryUrl = URL + qs.stringify(det);
+		var queryUrl = URL + qs.stringify(det);
 		console.log("Query url is " + queryUrl)
 
 		request.get(queryUrl, function  (err, res, body) {
@@ -147,7 +147,7 @@ function getMovieDetails (curVideo, callback) {
 				curVideo.path = path;
 				console.log("Found" + curVideo.path)
 				callback(curVideo);
-		})*/
+		})
 	}
 	else  {
 		curVideo.rating = "Not Found"

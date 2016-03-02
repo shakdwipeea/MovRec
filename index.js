@@ -36,9 +36,9 @@ app.on('ready', function () {
 
 
 	processWindow = new BrowserWindow({
-		width: 0,
-		height: 0,
-		show: false	
+		width: 40,
+		height: 50,
+		show: false
 	})
 
 	insertDbProcessWindow = new BrowserWindow({
