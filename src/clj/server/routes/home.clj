@@ -1,17 +1,25 @@
 (ns server.routes.home
   (:require [server.layout :as layout]
-            [compojure.core :refer [defroutes GET]]
+            [compojure.core :as router]
             [ring.util.http-response :as response]
-            [clojure.java.io :as io]))
+            [clojure.java.io :as io]
+            [compojure.api.sweet :refer :all]
+            [schema.core :as s]))
 
-(defn home-page []
-  (layout/render
-    "home.html" {:docs (-> "docs/docs.md" io/resource slurp)}))
+(defn search-handler [])
 
-(defn about-page []
-  (layout/render "about.html"))
-
-(defroutes home-routes
-  (GET "/" [] (home-page))
-  (GET "/about" [] (about-page)))
-
+(def api-routes
+  (api
+    {:swagger
+     {:ui "/api-docs"
+      :spec "/swager.json"
+      :data {:info {:title "Rest Apis"
+                    :description "Apis for goose"}
+             :tags [{:name "api", :description "search api"}]}}}
+    (context "/api" []
+             :tags ["api"]
+             (GET "/search" []
+                  :return {:name String}
+                  :query-params [movie :- String]
+                  :summary "Returns search results for movie"
+                  (response/ok {:name movie})))))

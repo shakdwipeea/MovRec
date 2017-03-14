@@ -6,8 +6,12 @@
   :dependencies [[bouncer "1.0.0"]
                  [buddy "1.3.0"]
                  [compojure "1.5.2"]
+                 [metosin/compojure-api "1.1.10"]
                  [conman "0.6.3"]
                  [cprop "0.1.10"]
+                 [clj-http "2.3.0"]
+                 [ring-cors "0.1.9"]
+                 [com.cemerick/url "0.1.1"]
                  [luminus-immutant "0.2.3"]
                  [luminus-migrations "0.3.0"]
                  [luminus-nrepl "0.1.4"]
@@ -18,6 +22,7 @@
                  [mysql/mysql-connector-java "6.0.5"]
                  [org.clojure/clojure "1.8.0"]
                  [org.clojure/tools.cli "0.3.5"]
+                 [org.clojure/data.json "0.2.6"]
                  [criterium "0.4.4"]
                  [org.clojure/tools.logging "0.3.1"]
                  [org.webjars.bower/tether "1.4.0"]
@@ -30,6 +35,7 @@
                  [ring/ring-core "1.5.1"]
                  [ring/ring-defaults "0.2.3"]
                  [clojure-opennlp "0.3.3"]
+                 [clj-http-fake "1.0.3"]
                  [selmer "1.10.6"]]
 
   :min-lein-version "2.0.0"
